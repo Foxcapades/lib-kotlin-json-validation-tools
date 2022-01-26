@@ -1,2 +1,2 @@
-rootProject.name = "json-validation"
+rootProject.name = "json-validation-tools"
 
